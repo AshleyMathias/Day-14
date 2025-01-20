@@ -21,28 +21,6 @@ Create the required art.py and game_data.py files:
 
 art.py
 Contains the ASCII art for the game. Example:
-
-python
-Copy
-Edit
-logo = """
- _    _ _       _               
-| |  | (_)     | |              
-| |__| |_  __ _| |__   ___ _ __ 
-|  __  | |/ _` | '_ \ / _ \ '__|
-| |  | | | (_| | | | |  __/ |   
-|_|  |_|_|\__, |_| |_|\___|_|   
-           __/ |                
-          |___/                 
-"""
-vs = """
- _    __    
-| |  / /    
-| | / /_  __
-| |/ / / / /
-|   / /_/ / 
-|_|\_\__,_/  
-"""
 game_data.py
 Contains the dataset with account information. Example:
 
